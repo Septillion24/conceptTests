@@ -1,0 +1,15 @@
+C:\Projects\conceptTests\bin\Debug\net7.0\conceptTests.exe
+c:\Projects\conceptTests\bin\Debug\net7.0\conceptTests.deps.json
+c:\Projects\conceptTests\bin\Debug\net7.0\conceptTests.runtimeconfig.json
+C:\Projects\conceptTests\bin\Debug\net7.0\conceptTests.dll
+C:\Projects\conceptTests\bin\Debug\net7.0\conceptTests.pdb
+C:\Projects\conceptTests\obj\Debug\net7.0\conceptTests.csproj.AssemblyReference.cache
+C:\Projects\conceptTests\obj\Debug\net7.0\conceptTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\conceptTests\obj\Debug\net7.0\conceptTests.AssemblyInfoInputs.cache
+C:\Projects\conceptTests\obj\Debug\net7.0\conceptTests.AssemblyInfo.cs
+C:\Projects\conceptTests\obj\Debug\net7.0\conceptTests.csproj.CoreCompileInputs.cache
+C:\Projects\conceptTests\obj\Debug\net7.0\conceptTests.dll
+C:\Projects\conceptTests\obj\Debug\net7.0\refint\conceptTests.dll
+C:\Projects\conceptTests\obj\Debug\net7.0\conceptTests.pdb
+c:\Projects\conceptTests\obj\Debug\net7.0\conceptTests.genruntimeconfig.cache
+c:\Projects\conceptTests\obj\Debug\net7.0\ref\conceptTests.dll
